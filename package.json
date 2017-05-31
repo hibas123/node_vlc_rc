@@ -1,0 +1,27 @@
+{
+  "name": "vlc_rc",
+  "version": "0.0.1",
+  "description": "NodeJS Binding for the VLC Media Player remote control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/margau/node_vlc_rc.git"
+  },
+  "keywords": [
+    "vlc",
+    "media",
+    "player",
+    "streaming",
+    "remote",
+    "video"
+  ],
+  "author": "Marvin Gaube <dev@marvingaube.de> (https://marvingaube.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/margau/node_vlc_rc/issues"
+  },
+  "homepage": "https://github.com/margau/node_vlc_rc#readme"
+}
