@@ -13,6 +13,6 @@ You can pass options too:
 ```javascript
 var VLC = new VLC_RC({verbose: true});
 ```
-* Available Settings *
-* *verbose* (Boolean): true or false, display verbose information
-* *debug* (Boolean): true or false, pipe VLC-Output to console
+**Available Settings**
+* *verbose* (Boolean): `true` or `false`, display verbose information
+* *debug* (Boolean): `true` or `false`, pipe VLC-Output to console
